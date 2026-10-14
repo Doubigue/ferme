@@ -1,0 +1,15 @@
+{
+  "name": "AgriSmart Farm Manager",
+  "short_name": "AgriSmart",
+  "description": "Gestion offline-first d'une ferme et de son cheptel",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#176b42",
+  "background_color": "#f8fafc",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
